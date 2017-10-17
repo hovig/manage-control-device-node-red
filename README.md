@@ -1,7 +1,5 @@
 # simulate-iot
 
-![Architecture Diagram](images/simulate-iot.png)
-
 # Connecting a motor device as a simulated device
 Build an IoT project with a simualted device that sends events for data monitoring on Watson IoT Platform on Bluemix.
 
